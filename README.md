@@ -1,37 +1,41 @@
 <img width="640" height="394" alt="100" src="https://github.com/user-attachments/assets/e49c59b2-3ac8-436d-9ae5-7491fdead5ab" />
 
-Development Workspace
+# Development Workspace
 
-This is a shared GitHub account maintained by two developers. We use it to build and publish small-scale software projects, utilities, and experimental tools.
+This repository is a shared GitHub workspace maintained by two developers. It is dedicated to the design, development, and publication of small-scale software projects, utilities, and experimental tools.
 
-About
+# Overview
 
-We focus on creating lightweight, practical applications while continuously improving our skills through hands-on development. This repository serves as a workspace for testing ideas, exploring technologies, and delivering concise solutions.
+The primary purpose of this repository is to serve as a structured environment for building practical applications while continuously improving technical skills through hands-on development. It also functions as a portfolio of completed work and a platform for experimenting with new ideas and technologies.
 
-Scope of Work
+# Scope of Work
 
-Our projects typically include:
+The repository includes, but is not limited to:
 
-Small applications and scripts
-Developer tools and utilities
+Small applications and standalone scripts
+Developer tools and productivity utilities
 Proof-of-concept implementations
-Experimental or exploratory projects
-Technology Stack
+Experimental and exploratory projects
+# Technology Stack
 
-We work with a variety of technologies depending on the project requirements, including:
+Technologies are selected based on project requirements. Commonly used tools and languages include:
 
 Python
 JavaScript / TypeScript
 Web technologies (HTML, CSS)
-Development Approach
-Emphasis on simplicity and clarity
-Preference for practical and maintainable solutions
-Iterative development and experimentation
-Collaborative and independent work depending on the project
-Objectives
-Build consistently and refine our skills
-Maintain a portfolio of completed and functional projects
-Explore new tools, frameworks, and approaches
-Contributions & Feedback
+# Development Approach
 
-Feedback, suggestions, and discussions are welcome. Please feel free to open an issue if you would like to contribute or share ideas.
+Our workflow is guided by the following principles:
+
+Focus on simplicity, clarity, and maintainability
+Preference for practical, efficient solutions over unnecessary complexity
+Iterative development with continuous refinement
+Combination of collaborative and independent work
+# Objectives
+Consistently develop and deliver functional software
+Build and maintain a structured portfolio of projects
+Explore and evaluate new tools, frameworks, and methodologies
+Strengthen problem-solving and engineering skills through practice
+# Contacts
+Fix Orange — Discord: kavasigmawellwellwell
+Fix Red — Discord: fix_red_akkaunt7
