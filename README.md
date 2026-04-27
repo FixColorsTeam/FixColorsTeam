@@ -2,4 +2,3 @@
 
 <p> <b> Вот так вот себя ощущаем, когда HelloWorld(print) <b> </strong> </p> 
 
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/vizg-svini-91156/embed/" frameborder="0" scrolling="no"></iframe>
